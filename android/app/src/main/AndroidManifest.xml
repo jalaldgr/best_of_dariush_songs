@@ -2,7 +2,7 @@
     package="ir.yadegartech.best_dariush_music">
    <application
         android:label="best_dariush_music"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
